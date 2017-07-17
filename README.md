@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work
 Learning how to visualize merging and using diff tool
 
 ## Purpose
+Rawr
 
 ## Deployment
 
