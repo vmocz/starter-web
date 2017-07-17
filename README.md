@@ -12,3 +12,7 @@ Learning how to visualize merging and using diff tool
 
 ## How To Contribute
 
+## Copyright
+
+2014 Git.Training
+
